@@ -17,6 +17,9 @@ body {
   max-width: 960px;
   margin: 0 auto;
   clear: both;
+align-content: center;
+background-color: darkolivegreen;
+color:white;
 }
 
 h1,
